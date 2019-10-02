@@ -1,8 +1,7 @@
 ## Example spring boot REST web service
 
 This is a sample Spring boot REST web service to demonstrate how REST web services are created.
-The spring modules used in this project are: Web and Data JPA
-The database is MySQL.
+The spring modules used in this project are: Web and Data JPA. The database is MySQL.
 
 ### Prerequisites
 
