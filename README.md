@@ -11,8 +11,7 @@ The spring modules used in this project are: Web and Data JPA. The database is M
 
 ### Sample Database
 
-The sample database can be found at location: https://github.com/datacharmer/test_db
-Follow the instructions in the README to install the sample database
+The sample database can be found at location: https://github.com/datacharmer/test_db. Follow the instructions in the README to install the sample database
 
 ### Build instructions
 
